@@ -1,1 +1,0 @@
-# cnn-with-fuzzy-logic
